@@ -26,7 +26,7 @@ const Footer = () => {
               Transforming businesses through consulting, technology, and innovation.
             </p>
             <div className="flex gap-3 pt-2">
-              <a href="#" className="w-10 h-10 rounded-full bg-gradient-cta flex items-center justify-center text-white hover:shadow-glow transition-all hover:scale-110">
+              <a href="https://www.linkedin.com/in/vaibhavvsh7/" className="w-10 h-10 rounded-full bg-gradient-cta flex items-center justify-center text-white hover:shadow-glow transition-all hover:scale-110">
                 <Linkedin className="h-5 w-5" />
               </a>
               <a href="mailto:contact@vsh7.com" className="w-10 h-10 rounded-full bg-gradient-accent flex items-center justify-center text-white hover:shadow-glow transition-all hover:scale-110">
